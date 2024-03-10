@@ -212,3 +212,15 @@ nav ul li a:hover{
          max-width:300px;
      }
 }
+
+@media(max-width:856px){
+     .hero-btn{
+         width:60%;
+         
+     }
+
+     .hero-btn a{
+        padding:1.5em 0;
+        border-radius:50px;
+     }
+}
