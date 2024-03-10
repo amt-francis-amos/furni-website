@@ -191,6 +191,17 @@ nav ul li a:hover{
       .left-col p{
         margin:auto;
     }
+
+
+    .hero-btn{
+        width:85%;
+        margin:2em auto;
+    }
+
+   .hero-btn a{
+      display:block;
+      margin:1em 0;
+   }
     
 
 }
