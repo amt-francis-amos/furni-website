@@ -136,6 +136,25 @@ nav ul li a:hover{
 }
 
 
+.explore-btn{
+     background:transparent;
+     border:2px solid #fff;
+     margin-left:1em;
+}
+
+.explore-btn:hover{
+    background:#ffc800;
+}
+
+
+
+
+
+
+
+
+
+
 
 @media (max-width:992px){
       .container{
